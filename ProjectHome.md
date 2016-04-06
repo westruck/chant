@@ -1,0 +1,4 @@
+ChaNT™ is a flexible, powerful, cross-browser and easy to use open source web-based chat system written in PHP and JavaScript. Support for BBCode, 3D Animated Smileys with a IM like toolbar for formatting your chat messages. It does not require any browser plugins like Java or Flash. Also it not requires MySQL, all data stored in ordinary files.
+
+
+ChaNT included privacy features such as traffic encryption(client-server-client) and client side password hashing. It have powerful admin control panel and can integrated with many forums and CMS. ChaNT supports all major browsers such as Internet Explorer, Firefox, Opera, Safari and Mozilla. It has a minimalistic and an elegant user interface which looks and feels a lot like a IM desktop application, since it uses AJAX. ChaNT is very fast, light weight and makes chatting more fun.
